@@ -23,7 +23,3 @@ Or add from CDN:
 ### Example usage:
 
 [Live example on the jsFiddle](http://jsfiddle.net/Tamersoul/dr7Dw/)
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT) (c) 2014, Ryasnoy Paul
